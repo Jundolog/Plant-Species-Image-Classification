@@ -1,16 +1,6 @@
-# Plant-Species-Image-Classification
+# Plant-Species-Image-Classification.
 
-
-
-
-Step 10: Upload All Required Files to GitHub
-Your repository must contain:
-● README.md
-
-
-
-
-
+https://drive.google.com/drive/folders/1iVdmDBkd3uSuk0wtDnY7rXbjGtysXKV_?usp=sharing
 
 
 Reflection Questions:
